@@ -1,0 +1,12 @@
+# api de exemplo
+https://medium.com/@nataniel.paiva/cria%C3%A7%C3%A3o-de-uma-api-rest-com-python-76696d17bfb9
+
+# Mapear unidade 
+https://answers.microsoft.com/pt-br/windows/forum/windows_10-files-winpc/como-mapear-um-diret%C3%B3rio-store-drive-do-azure/8a9a9351-7bef-4dd3-9e11-c6000018078a
+
+# Abrir porta 445 
+https://www.gestortecnico.net/2018/06/como-abrir-porta-no-firewall-do-windows10.html
+
+
+# Explicação Sql Lite
+https://forum.scriptcase.com.br/t/sqlite-conexao-remota/11289/2
