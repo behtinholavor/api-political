@@ -2,4 +2,4 @@ __history/
 __recovery
 
 # Database file
-/db/political.db
+/db/*.db

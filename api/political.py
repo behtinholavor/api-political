@@ -8,11 +8,6 @@ db_connect = create_engine('sqlite:///../db/political.db')
 app = Flask(__name__)
 api = Api(app)
 
-
-# http://localhost:5000/political/value/614.90/year/2017
-# http://localhost:5000/political/value/614.30/year/2017
-# http://localhost:5000/political/value/614.10/year/2017
-
 class All(Resource):
     def get(self):
         conn = db_connect.connect()
